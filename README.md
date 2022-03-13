@@ -18,9 +18,6 @@ College project where the creation of a form was requested.
 ### Function 04:
 - Validation of the "Birth Date" field.
 
-### Function 05:
-- Validation of the "Photo" field.
-
 ## See project development:
 
 To see the project go to the link:
