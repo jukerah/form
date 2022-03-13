@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Formulário</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+    <div class="conteiner">
+        <h1>Formulário</h1>
+        <form action="POST">
+            <div class="box-grid">
+                <label for="name">Nome Completo:</label>
+                <input type="text" name="name" id="name" autocomplete="off" required />
+                <label for="email">Email:</label>
+                <input type="email" name="email" id="email" autocomplete="off" required />
+                <label for="password">Senha:</label>
+                <input type="password" minlength="8" id="password" autocomplete="off" required />
+                <label for="dtNasc">Data de Nascimento:</label>
+                <input type="date" id="dtNasc" autocomplete="off" required />
+                <label for="photo">Foto:</label>
+                <input type="file" id="photo" accept="image/png, image/jpeg" autocomplete="off" required />
+                <label for="tv">Canal de Comunicação:</label>
+                <div class="communication-ch">
+                    <input class="checkmark" type="checkbox" id="tv" name="tv" value="TV" autocomplete="off" />
+                    <label for="tv">TV</label>
+                    <input class="checkmark" type="checkbox" id="pc" name="pc" value="PC" autocomplete="off" />
+                    <label for="pc">PC</label>
+                    <input class="checkmark" type="checkbox" id="tablet" name="tablet" value="Tablet" autocomplete="off" />
+                    <label for="tablet">Tablet</label>
+                    <input class="checkmark" type="checkbox" id="jornal" name="jornal" value="Jornal" autocomplete="off" />
+                    <label for="jornal">Jornal</label>
+                    <input class="checkmark" type="checkbox" id="outros" name="outros" value="Outros" autocomplete="off" />
+                    <label for="outros">Outros</label>
+                </div>
+            </div>            
+            <div class="box-grid">
+                <label for="periodo">Período:</label>
+                <select id="periodo">
+                    <option value="08:00 às 12:00">08:00 às 12:00</option>
+                    <option value="13:00 às 18:00">13:00 às 18:00</option>
+                </select>
+                <label for="resumo">Resumo:</label>
+                <textarea id="resumo" name="resumo" rows="5"></textarea>
+                <label for="reset">Limpar Campos:</label>
+                <button class="reset-btn" type="reset" id="reset">Reset</button>
+            </div>
+            <div class="send-cancel-btn">
+                <button>Salvar</button>
+                <button type="reset">Cancelar</button>
+            </div>
+        </form>
+    </div>
+    <script src="assets/script.js"></script>  
+</body>
+</html>
