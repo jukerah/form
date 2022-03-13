@@ -24,10 +24,10 @@ College project where the creation of a form was requested.
 ## Veja o desenvolvimento do projeto:
 
 Para ver o desenvolvimento acesse o planejamento:
-<a href="">click here!</a>
+<a href="https://marioelvio.com/portfolio/faculdade/1/" target="_blank">click here!</a>
 
 ### Contact
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-usuario/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marioelvio/)
 
 <p align="center">Copyright © 2022 Jukerah</p>
