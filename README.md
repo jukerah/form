@@ -23,7 +23,7 @@ College project where the creation of a form was requested.
 
 ## Veja o desenvolvimento do projeto:
 
-Para ver o desenvolvimento acesse o planejamento:
+To see the project go to the link:
 <a href="https://marioelvio.com/portfolio/faculdade/1/" target="_blank">click here!</a>
 
 ### Contact
