@@ -21,7 +21,7 @@ College project where the creation of a form was requested.
 ### Função 05:
 - Validation of the "Photo" field.
 
-## Veja o desenvolvimento do projeto:
+## See project development:
 
 To see the project go to the link:
 <a href="https://marioelvio.com/portfolio/faculdade/1/" target="_blank">click here!</a>
