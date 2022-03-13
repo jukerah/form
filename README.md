@@ -18,7 +18,7 @@ College project where the creation of a form was requested.
 ### Function 04:
 - Validation of the "Birth Date" field.
 
-### Função 05:
+### Function 05:
 - Validation of the "Photo" field.
 
 ## See project development:
@@ -30,4 +30,4 @@ To see the project go to the link:
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marioelvio/)
 
-<p align="center">Copyright © 2022 Jukerah</p>
+<p align="center">Copyright © 2022 Mario Elvio</p>
